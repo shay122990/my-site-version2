@@ -1,0 +1,142 @@
+/*******************background*****************/
+body{
+  color: #40514E;
+  margin: 0;
+  background-color: #cae8d5;
+  text-align: center;
+
+}
+.top-container{
+  padding-top: 100px;
+  position: relative;
+  background-color: #8ec6c5;
+}
+.middle-container{
+  margin: 100px 0 20px 0;
+}
+.bottom-container{
+  background-color: #8ec6c5;
+  padding: 50px 0 20px;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+
+hr{
+  border: dotted #8ec6c5 6px;
+  border-bottom: none;
+  width:4%;
+  margin: 100px auto 100px auto;
+}
+
+
+
+/*******************text*****************/
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #ffffff;
+  margin: 50px auto 0 auto;
+}
+.programmer{
+  font-family: Montserrat;
+  font-size: 2.0rem;
+  font-weight: normal;
+  color: #ffffff;
+  margin: 0;
+}
+h2{
+  font-family: Merriweather;
+  color: #204051;
+  padding-bottom: 10px;
+
+}
+h3{
+  font-family: Merriweather;
+  color: #3b6978;
+
+}
+p{
+line-height: 2;
+  font-family: Montserrat;
+}
+
+
+.hello{
+  margin: 0;
+}
+.into{
+  width: 30%;
+  margin: auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 30px;
+}
+
+.btn {
+    font-family: Merriweather;
+    background-color: #66BFBF;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 3rem;
+    padding: 0.8rem 2.5rem;
+    border-radius: 1rem;
+    display: inline-block;
+}
+.btn:hover{
+  color: #3b6978;
+}
+a{
+  color: #3b6978;
+    font-family: Montserrat;
+    margin: 10px 5px;
+    text-decoration: none;
+}
+a:hover{
+  color: #ffffff;
+}
+.copyrite{
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+/*******************images*****************/
+.shell1{
+  position: absolute;right: 100px;top: 30px;
+  width: 10%;
+  height: 20%;
+}
+.shell2{
+  position: absolute; left: 100px;bottom: 300px;
+  width: 10%;
+  height: 20%;
+}
+.shell3{
+  margin: 0;
+  width: 40%;
+ height: 40%;
+}
+.profile-img{
+  width: 15%;
+
+}
+.skill1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
